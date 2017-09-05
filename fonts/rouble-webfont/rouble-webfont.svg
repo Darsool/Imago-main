@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata></metadata>
+<defs>
+<font id="als_rublregular" horiz-adv-x="1024" >
+<font-face units-per-em="2048" ascent="1536" descent="-512" />
+<missing-glyph horiz-adv-x="500" />
+<glyph horiz-adv-x="0" />
+<glyph horiz-adv-x="682" />
+<glyph unicode=" " />
+<glyph unicode="i" horiz-adv-x="1398" d="M184 246v164h146v125h-146v163h146v736h360q243 0 373 -91q172 -120 172 -342q0 -93 -33.5 -176t-93.5 -143q-75 -75 -175.5 -111t-250.5 -36h-162v-125h643v-164h-643v-246h-190v246h-146zM520 696h129q120 0 189.5 19t115.5 67q82 82 82 213q0 153 -102 219 q-83 56 -256 56h-158v-574z" />
+<glyph unicode="o" horiz-adv-x="1298" d="M154 281v145h135v143h-135v146h135v721h465q64 0 121.5 -12.5t109 -41t89 -70.5t59.5 -106t22 -143q0 -492 -653 -492h-23v-145h635v-145h-635v-281h-190v281h-135zM479 715h66q197 0 302 78t105 254q0 64 -22.5 113.5t-60 77t-79.5 41t-88 13.5h-223v-577z" />
+<glyph unicode="q" horiz-adv-x="1308" d="M123 236v161h135v135h-135v164h135v738h387q246 0 379 -91q172 -117 172 -342q0 -195 -127 -319q-75 -75 -177 -111t-253 -36h-190v-138h688v-161h-688v-236h-191v236h-135zM449 696h159q115 0 187 21.5t120 66.5q82 82 82 211q0 149 -104 217q-89 58 -256 58h-188v-574z " />
+<glyph unicode="&#xa0;" />
+<glyph unicode="&#x2000;" horiz-adv-x="718" />
+<glyph unicode="&#x2001;" horiz-adv-x="1436" />
+<glyph unicode="&#x2002;" horiz-adv-x="718" />
+<glyph unicode="&#x2003;" horiz-adv-x="1436" />
+<glyph unicode="&#x2004;" horiz-adv-x="478" />
+<glyph unicode="&#x2005;" horiz-adv-x="359" />
+<glyph unicode="&#x2006;" horiz-adv-x="239" />
+<glyph unicode="&#x2007;" horiz-adv-x="239" />
+<glyph unicode="&#x2008;" horiz-adv-x="179" />
+<glyph unicode="&#x2009;" horiz-adv-x="287" />
+<glyph unicode="&#x200a;" horiz-adv-x="79" />
+<glyph unicode="&#x202f;" horiz-adv-x="287" />
+<glyph unicode="&#x205f;" horiz-adv-x="359" />
+<glyph unicode="&#x25fc;" d="M0 0z" />
+</font>
+</defs></svg> 
